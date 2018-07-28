@@ -1,0 +1,5 @@
+.btn {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.288);
+    border-radius: 1px !important;
+    padding: 0.3em 2.2em;
+}
