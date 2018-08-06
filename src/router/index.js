@@ -1,9 +1,9 @@
-import Vue from 'vue'
-import Router from 'vue-router'
+import Vue from 'vue';
+import Router from 'vue-router';
 
-import BeatDetails from '@/components/BeatDetails'
-import BeatContainer from '@/components/BeatContainer'
-import Home from '@/components/Home'
+import BeatDetails from '@/components/BeatDetails';
+import BeatContainer from '@/components/BeatContainer';
+import Home from '@/components/Home';
 
 Vue.use(Router)
 
@@ -25,4 +25,4 @@ export default new Router({
       component: BeatDetails
     }
   ]
-})
+});
